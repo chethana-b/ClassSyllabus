@@ -1,5 +1,5 @@
 ## Class Syllabus Project
 
-** Projectfor Git Course **
+** Project for Git Course **
 
 * This is dimple syllabus project*
